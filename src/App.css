@@ -12,27 +12,5 @@
   grid-template-columns: 2fr 10fr;
   /* grid-gap: 10px; */
 }
-.header {
-  grid-area: h;
-  background-color: rgb(122, 248, 122);
 
-}
-.header img {
-  width: 75px;
-}
-.nav {
-  grid-area: n;
-  background-color:honeydew;
-}
-.content {
-  grid-area: c;
-  background-color: rgb(137, 182, 241);
-}
-.content_img {
-  height: 80px;
-  width: 100%;
-}
-.content_avatar {
-  height: 60px;
-  width: 60px;
-}
+
